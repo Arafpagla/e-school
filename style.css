@@ -66,8 +66,8 @@ span{
     text-align: left;
     }
     .chobi-one{
-        height: 414px;
-width: 544px;
+        height: 97%;
+width: 75% ;
 margin-bottom: 35px;
 
 border-radius: 0px;
@@ -130,10 +130,12 @@ box-shadow:20px 25px 40px  aliceblue;
 }
 .card-img-top{
     height: 37%;
-width: 80%;
-margin-left: 30px;
+width: 78.80%;
+margin-left: 8%;
 border-radius: 11px;
-margin-top: 30px;
+margin-top: 10%;
+margin-right: 10%;
+margin-bottom: 15%;
 
 
 }
